@@ -1,2 +1,4 @@
-# talk-frontend
-Talk: Frontend Showdown
+# Talk: Frontend Showdown
+
+Comparing React, Vue, Angular.
+
